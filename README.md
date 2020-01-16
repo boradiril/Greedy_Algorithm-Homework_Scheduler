@@ -2,6 +2,7 @@
 
 
  ABSTRACT
+ --------
 
  As students, we are in a constant race against time to finish homework. We take a multitude of courses simultaneously, and often have a lot on our plate to manage.
 
@@ -12,6 +13,7 @@
 
 
  IMPLEMENTATION
+ --------------
 
  As it can be seen in the sample problem in "GreedyTester.java", we have created two arrays of the same size; one of weight and one of deadlines for the homework. Each index represents a single homework. For instance "weights[2]" and "deadlines[2]" would represent the weight and deadline of the third homework.
 
